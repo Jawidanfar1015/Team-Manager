@@ -1,4 +1,4 @@
-// create the team
+// create the team in html
 const generateTeam = (team) => {
     // create the manager card in html file
     const generateManager = (manager) => {
