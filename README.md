@@ -15,11 +15,13 @@
 
 # How to use it?
 
-- This application run in command line with "node index.js" command
-- Then you will face with a set of questions about employees
-- You have the option to add a new employee or finish creating the team.
-- after selecting the Create Team option, it will create a html file.
-- the html file will contain the team of added employees with their informations
+- [Watch-Video](https://drive.google.com/file/d/1ey37HnG6HwewI5GuR0pFb_TH75Y_B_sV/view)
+
+* This application run in command line with "node index.js" command
+* Then you will face with a set of questions about employees
+* You have the option to add a new employee or finish creating the team.
+* after selecting the Create Team option, it will create a html file.
+* the html file will contain the team of added employees with their informations
 
 # How does it look like
 
