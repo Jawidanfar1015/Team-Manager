@@ -23,7 +23,7 @@
 
 # How does it look like
 
-- [!view](./assets/images/screenshot1.png)
+- ![view1](./assets/images/screenshot1.png)
 
 # Technologies Used
 
