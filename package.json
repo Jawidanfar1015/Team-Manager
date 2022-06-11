@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Jawidanfar1015/Team-Manager/issues"
   },
-  "homepage": "https://github.com/Jawidanfar1015/Team-Manager#readme"
+  "homepage": "https://github.com/Jawidanfar1015/Team-Manager#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }

@@ -30,7 +30,7 @@ const generateTeam = (team) => {
       <div class="card-body">
           <ul class="list-group">
               <li class="list-group-item">ID: ${engineer.adoptedId()}</li>
-              <li class="list-group-item">Email: <a href="mailto:${engineer.adoptdEmail()}">${engineer.adoptedEmail()}</a></li>
+              <li class="list-group-item">Email: <a href="mailto:${engineer.adoptedEmail()}">${engineer.adoptedEmail()}</a></li>
               <li class="list-group-item">GitHub: <a href="https://github.com/${engineer.adoptedGithub()}" target="_blank" rel="noopener noreferrer">${engineer.adoptedGithub()}</a></li>
           </ul>
       </div>
